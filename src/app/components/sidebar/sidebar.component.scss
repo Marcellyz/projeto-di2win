@@ -22,6 +22,14 @@ li {
   padding: 10px 15px;
   background-color: #FBD5EC;
   border-radius: 5px;
+  transition: 0.5s;
+  opacity: 1;
   color: #FD32D0;
   box-shadow: 0px 8px 15px 0px rgba(0,0,0,0.2);
+}
+
+.btn-relatorio:hover {
+  background-color: #FD32D0;
+  color:#FBD5EC;
+
 }
